@@ -59,7 +59,7 @@ Follow the steps outlined above to complete the project successfully.
 
 # Presentation Talking Points
 
-Example #: [Insert Example Number]
+Example 1: [https://www.loom.com/share/39c09e3065b54880850a701022e2560b?sid=4cedc64e-83b9-464b-8e40-c8aff72541cf]
 
 ## Imperative Approach [2 Minutes]
 1. **Step-by-Step Explanation:** Start by explaining the code logic in the imperative approach.

@@ -1,0 +1,26 @@
+Sure, I'll explain which of these examples is declarative and which is imperative in detail.
+
+The first example, example_1.js, is an imperative implementation of the cookSteak function. In an imperative style, the code explicitly describes the step-by-step procedures or instructions for cooking the steak. It uses control structures like loops and conditional statements to define the specific actions that need to be taken to achieve the desired result.
+
+Here's a breakdown of the imperative nature of example_1.js:
+
+The function starts by initializing variables grillTemperature and steakTemperature.
+It then sets the grillTemperature to a specific value (204°C).
+It defines the seasoning for the steak.
+It enters a loop that continues until the steakTemperature reaches the desired doneness.
+Inside the loop, it performs actions like grilling the steak, measuring the internal temperature, adjusting the grill temperature and cooking time based on the steak weight and desired doneness, and updating the steakTemperature.
+Once the desired doneness is achieved, it breaks out of the loop.
+Finally, it returns a message indicating whether the steak is ready to serve or needs more cooking.
+The imperative style focuses on explicitly defining the step-by-step instructions for how to cook the steak, telling the computer exactly what to do at each stage.
+
+On the other hand, the second example, example_2.js, takes a more declarative approach to the cookSteak function. In a declarative style, the code describes the desired behavior or the end result, rather than explicitly defining the step-by-step procedures.
+
+Here's how example_2.js is declarative:
+
+The function defines an array cookingprocess that represents the high-level steps involved in cooking the steak.
+It then iterates over this array using a for...of loop.
+Inside the loop, it uses a switch statement to execute different actions based on the current step in the cookingProcess.
+For each step, it logs a message describing the action being performed, such as preheating the grill, seasoning the steak, cooking the steak to the desired doneness, or serving the steak.
+The declarative style in example_2.js focuses on describing the desired behavior or the end result (cooking the steak to the desired doneness), rather than specifying the low-level implementation details of how to achieve that result.
+
+In summary, example_1.js is an imperative implementation, where the code explicitly defines the step-by-step procedures for cooking the steak, while example_2.js is a declarative implementation, where the code describes the desired behavior or the end result of cooking the steak.

@@ -72,7 +72,7 @@ Example 1: [https://www.loom.com/share/39c09e3065b54880850a701022e2560b?sid=4ced
    - Discuss any mutable variables or states that change during execution.
 
 
-Example #: [Insert Example Number]
+Example 2: [https://www.loom.com/share/e67e4c8715b7404a903040754078b89d?sid=dc60e828-0de6-45bc-bbb6-5b88606a68eb]
 
 ## Declarative Approach [2 Minutes]
 1. **High-Level Process Description:** Explain the code logic in the declarative approach.

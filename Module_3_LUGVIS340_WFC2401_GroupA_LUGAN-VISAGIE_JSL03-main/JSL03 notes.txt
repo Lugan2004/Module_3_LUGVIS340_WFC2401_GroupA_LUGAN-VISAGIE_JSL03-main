@@ -1,13 +1,12 @@
-Sure, I'll explain which of these examples is declarative and which is imperative in detail.
 
 The first example, example_1.js, is an imperative implementation of the cookSteak function. In an imperative style, the code explicitly describes the step-by-step procedures or instructions for cooking the steak. It uses control structures like loops and conditional statements to define the specific actions that need to be taken to achieve the desired result.
 
-Here's a breakdown of the imperative nature of example_1.js:
+I will now give a detailed breakdown of why I think exmaple_1.js is imperative.
 
 The function starts by initializing variables grillTemperature and steakTemperature.
-It then sets the grillTemperature to a specific value (204°C).
-It defines the seasoning for the steak.
-It enters a loop that continues until the steakTemperature reaches the desired doneness.
+It then sets the grillTemperature to a specific value which is (204°C).
+Then it defines the seasoning for the steak.
+It then enters a loop that continues until the steakTemperature reaches the desired doneness.
 Inside the loop, it performs actions like grilling the steak, measuring the internal temperature, adjusting the grill temperature and cooking time based on the steak weight and desired doneness, and updating the steakTemperature.
 Once the desired doneness is achieved, it breaks out of the loop.
 Finally, it returns a message indicating whether the steak is ready to serve or needs more cooking.
